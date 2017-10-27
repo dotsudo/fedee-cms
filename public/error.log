@@ -1,0 +1,171 @@
+[07-Oct-2017 01:36:18 UTC] PHP Notice:  Undefined offset: 1 in C:\Winginx\home\localhost\public_html\app\global.php on line 7
+[07-Oct-2017 01:36:18 UTC] PHP Notice:  Undefined variable: start in C:\Winginx\home\localhost\public_html\app\global.php on line 9
+[07-Oct-2017 01:36:19 UTC] PHP Notice:  Undefined offset: 1 in C:\Winginx\home\localhost\public_html\app\global.php on line 7
+[07-Oct-2017 01:36:19 UTC] PHP Notice:  Undefined variable: start in C:\Winginx\home\localhost\public_html\app\global.php on line 9
+[07-Oct-2017 01:36:34 UTC] PHP Notice:  Undefined variable: start in C:\Winginx\home\localhost\public_html\app\global.php on line 9
+[07-Oct-2017 01:36:35 UTC] PHP Notice:  Undefined variable: start in C:\Winginx\home\localhost\public_html\app\global.php on line 9
+[07-Oct-2017 01:37:50 UTC] PHP Notice:  Undefined variable: start in C:\Winginx\home\localhost\public_html\app\global.php on line 10
+[07-Oct-2017 01:37:51 UTC] PHP Notice:  Undefined variable: start in C:\Winginx\home\localhost\public_html\app\global.php on line 10
+[07-Oct-2017 01:38:57 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Winginx\home\localhost\public_html\app\global.php on line 9
+[07-Oct-2017 01:38:58 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Winginx\home\localhost\public_html\app\global.php on line 9
+[07-Oct-2017 01:49:48 UTC] PHP Warning:  require(C:\Winginx\home\localhost\public_html): failed to open stream: Permission denied in C:\Winginx\home\localhost\public_html\public\index.php on line 12
+[07-Oct-2017 01:49:48 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Winginx\home\localhost\public_html' (include_path='.;C:\php\pear') in C:\Winginx\home\localhost\public_html\public\index.php on line 12
+[07-Oct-2017 01:49:48 UTC] PHP Warning:  require(C:\Winginx\home\localhost\public_html): failed to open stream: Permission denied in C:\Winginx\home\localhost\public_html\public\index.php on line 12
+[07-Oct-2017 01:49:48 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Winginx\home\localhost\public_html' (include_path='.;C:\php\pear') in C:\Winginx\home\localhost\public_html\public\index.php on line 12
+[07-Oct-2017 02:33:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Monolog\Logger' not found in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php:18
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require()
+#1 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 18
+[07-Oct-2017 02:33:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Monolog\Logger' not found in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php:18
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require()
+#1 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 18
+[07-Oct-2017 02:34:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Monolog\Logger' not found in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php:18
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require()
+#1 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 18
+[07-Oct-2017 02:34:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Monolog\Logger' not found in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php:18
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require()
+#1 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 18
+[07-Oct-2017 02:34:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Monolog\Logger' not found in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php:18
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require()
+#1 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 18
+[07-Oct-2017 02:57:03 UTC] PHP Notice:  Undefined variable: error in C:\Winginx\home\localhost\public_html\BlackCMS\public\check.php on line 27
+[07-Oct-2017 02:57:10 UTC] PHP Warning:  printf(): Too few arguments in C:\Winginx\home\localhost\public_html\BlackCMS\public\check.php on line 20
+[07-Oct-2017 03:01:42 UTC] PHP Notice:  Undefined index: software in C:\Winginx\home\localhost\public_html\BlackCMS\public\check.php on line 36
+[07-Oct-2017 03:01:51 UTC] PHP Notice:  Undefined index: software in C:\Winginx\home\localhost\public_html\BlackCMS\public\check.php on line 29
+[07-Oct-2017 23:33:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Fedee' not found in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php:17
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require()
+#1 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 17
+[07-Oct-2017 23:34:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Fedee' not found in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php:17
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require()
+#1 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 17
+[07-Oct-2017 23:45:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Fedee' not found in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php:17
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require()
+#1 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 17
+[07-Oct-2017 23:55:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Fedee\Fedee' not found in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php:17
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require()
+#1 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 17
+[07-Oct-2017 23:56:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Fedee\Fedee' not found in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php:17
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require()
+#1 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 17
+[07-Oct-2017 23:56:44 UTC] PHP Notice:  Use of undefined constant CWD - assumed 'CWD' in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\fedee.class.php on line 28
+[07-Oct-2017 23:56:44 UTC] PHP Warning:  require(CWD/app/library/logger.class.php): failed to open stream: No such file or directory in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\fedee.class.php on line 32
+[07-Oct-2017 23:56:44 UTC] PHP Fatal error:  require(): Failed opening required 'CWD/app/library/logger.class.php' (include_path='.;C:\php\pear') in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\fedee.class.php on line 32
+[07-Oct-2017 23:57:03 UTC] PHP Warning:  require(C:\Winginx\home\localhost\public_html\BlackCMS/app/library/logger.class.php): failed to open stream: No such file or directory in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\fedee.class.php on line 32
+[07-Oct-2017 23:57:03 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Winginx\home\localhost\public_html\BlackCMS/app/library/logger.class.php' (include_path='.;C:\php\pear') in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\fedee.class.php on line 32
+[07-Oct-2017 23:57:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function warning() on null in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php:18
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require()
+#1 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 18
+[08-Oct-2017 00:34:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Fedee\Fedee' not found in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php:19
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require()
+#1 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 19
+[08-Oct-2017 00:40:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Fedee\Fedee\Twig_Loader_Filesystem' not found in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\template.class.php:21
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\fedee.class.php(37): Fedee\Fedee\Template->__construct()
+#1 C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php(22): Fedee\Fedee\Fedee::get('template')
+#2 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require('C:\\Winginx\\home...')
+#3 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\template.class.php on line 21
+[08-Oct-2017 00:41:38 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Twig_Environment::render() must be of the type array, null given, called in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\template.class.php on line 29 and defined in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php:287
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\template.class.php(29): Twig_Environment->render('index.html', NULL)
+#1 C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php(19): Fedee\Fedee\Template->render('index.html')
+#2 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require('C:\\Winginx\\home...')
+#3 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php on line 287
+[08-Oct-2017 01:00:26 UTC] PHP Fatal error:  Uncaught Twig_Error_Loader: The "/resources/templates/test" directory does not exist ("/resources/templates/test"). in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php:101
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php(82): Twig_Loader_Filesystem->addPath('/resources/temp...', '__main__')
+#1 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php(40): Twig_Loader_Filesystem->setPaths(Array)
+#2 C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\template.class.php(22): Twig_Loader_Filesystem->__construct('/resources/temp...')
+#3 C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\fedee.class.php(37): App\Fedee\Template->__construct()
+#4 C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php(19): App\Fedee\Fedee::get('template')
+#5 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require('C:\\Winginx\\home...' in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php on line 101
+[08-Oct-2017 01:00:47 UTC] PHP Notice:  Undefined index: core:template.cache_directory in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\config.class.php on line 32
+[08-Oct-2017 01:48:14 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php on line 97
+[08-Oct-2017 01:48:14 UTC] PHP Fatal error:  Uncaught LogicException: Cache can only be a string, false, or a Twig_CacheInterface implementation. in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php:247
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php(104): Twig_Environment->setCache(NULL)
+#1 C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\template.class.php(28): Twig_Environment->__construct(Object(Twig_Loader_Filesystem), NULL)
+#2 C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\fedee.class.php(37): App\Fedee\Template->__construct()
+#3 C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php(19): App\Fedee\Fedee::get('template')
+#4 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require('C:\\Winginx\\home...')
+#5 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php on line 247
+[08-Oct-2017 01:54:40 UTC] PHP Warning:  require(C:\Winginx\home\localhost\public_html\BlackCMS/app/library/Fedee/fedee.class.php): failed to open stream: No such file or directory in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 17
+[08-Oct-2017 01:54:40 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Winginx\home\localhost\public_html\BlackCMS/app/library/Fedee/fedee.class.php' (include_path='.;C:\php\pear') in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 17
+[08-Oct-2017 01:55:23 UTC] PHP Warning:  require(C:\Winginx\home\localhost\public_html\BlackCMS/app/library/Fedee/fedee.class.php): failed to open stream: No such file or directory in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 17
+[08-Oct-2017 01:55:23 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Winginx\home\localhost\public_html\BlackCMS/app/library/Fedee/fedee.class.php' (include_path='.;C:\php\pear') in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 17
+[08-Oct-2017 01:55:30 UTC] PHP Warning:  require(C:\Winginx\home\localhost\public_html\BlackCMS/app/library/Fedee/fedee.class.php): failed to open stream: No such file or directory in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 17
+[08-Oct-2017 01:55:30 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Winginx\home\localhost\public_html\BlackCMS/app/library/Fedee/fedee.class.php' (include_path='.;C:\php\pear') in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 17
+[08-Oct-2017 01:56:14 UTC] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "index.html" (looked into: C:\Winginx\home\localhost\public_html\BlackCMS). in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php:226
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('index.html')
+#1 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php(270): Twig_Loader_Filesystem->getCacheKey('index.html')
+#2 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php(350): Twig_Environment->getTemplateClass('index.html')
+#3 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php(289): Twig_Environment->loadTemplate('index.html')
+#4 C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\Template.php(35): Twig_Environment->render('index.html', Array)
+#5 C:\Winginx\home\localhost\public_html\BlackCMS\bootst in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php on line 226
+[08-Oct-2017 01:57:42 UTC] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "index.html" (looked into: C:\Winginx\home\localhost\public_html\BlackCMS). in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php:226
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('index.html')
+#1 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php(270): Twig_Loader_Filesystem->getCacheKey('index.html')
+#2 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php(350): Twig_Environment->getTemplateClass('index.html')
+#3 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php(289): Twig_Environment->loadTemplate('index.html')
+#4 C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\Template.php(35): Twig_Environment->render('index.html', Array)
+#5 C:\Winginx\home\localhost\public_html\BlackCMS\bootst in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php on line 226
+[08-Oct-2017 01:58:26 UTC] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "index.html" (looked into: C:\Winginx\home\localhost\public_html\BlackCMS). in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php:226
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('index.html')
+#1 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php(270): Twig_Loader_Filesystem->getCacheKey('index.html')
+#2 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php(350): Twig_Environment->getTemplateClass('index.html')
+#3 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Environment.php(289): Twig_Environment->loadTemplate('index.html')
+#4 C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\Template.php(35): Twig_Environment->render('index.html', Array)
+#5 C:\Winginx\home\localhost\public_html\BlackCMS\bootst in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php on line 226
+[08-Oct-2017 02:00:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\Config.php on line 31
+[08-Oct-2017 02:01:41 UTC] PHP Notice:  Undefined variable: config in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\Config.php on line 35
+[08-Oct-2017 02:06:48 UTC] PHP Fatal error:  Uncaught Twig_Error_Loader: The "C:\Winginx\home\localhost\public_html\BlackCMSresources/templates/test" directory does not exist ("C:\Winginx\home\localhost\public_html\BlackCMSresources/templates/test"). in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php:101
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php(82): Twig_Loader_Filesystem->addPath('C:\\Winginx\\home...', '__main__')
+#1 C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php(40): Twig_Loader_Filesystem->setPaths(Array)
+#2 C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\Template.php(22): Twig_Loader_Filesystem->__construct('C:\\Winginx\\home...')
+#3 C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\Fedee.php(37): App\Fedee\Template->__construct()
+#4 C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php(19): App\Fedee\Fedee::get('template')
+#5 C:\Winginx\home\l in C:\Winginx\home\localhost\public_html\BlackCMS\vendor\twig\twig\lib\Twig\Loader\Filesystem.php on line 101
+[08-Oct-2017 02:10:39 UTC] PHP Notice:  Only variables should be passed by reference in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\Fedee.php on line 33
+[08-Oct-2017 02:10:39 UTC] PHP Notice:  Only variables should be passed by reference in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\Fedee.php on line 33
+[14-Oct-2017 02:16:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method App\Fedee\Routing::addRoute() in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\Routing.php:22
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\Fedee.php(36): App\Fedee\Routing->__construct()
+#1 C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php(19): App\Fedee\Fedee::get('fedee.routing')
+#2 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require('C:\\Winginx\\home...')
+#3 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\Routing.php on line 22
+[14-Oct-2017 02:18:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function App\Fedee\Routing::dispatch(), 0 passed in C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php on line 22 and exactly 1 expected in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\Routing.php:28
+Stack trace:
+#0 C:\Winginx\home\localhost\public_html\BlackCMS\bootstrap\app.php(22): App\Fedee\Routing->dispatch()
+#1 C:\Winginx\home\localhost\public_html\BlackCMS\public\index.php(13): require('C:\\Winginx\\home...')
+#2 {main}
+  thrown in C:\Winginx\home\localhost\public_html\BlackCMS\app\library\Fedee\Routing.php on line 28
